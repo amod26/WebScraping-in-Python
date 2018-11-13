@@ -1,4 +1,5 @@
 # WebScraping-in-Python
+Web scraping is an automatic process of extracting information from web.
 
 1. News Article Summary
 - Parses news article and summarizes the content and saves it in a CSV file.
