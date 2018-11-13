@@ -1,7 +1,8 @@
 # WebScraping-in-Python
 Web scraping is an automatic process of extracting information from web. Web scraping, also called web data mining or web harvesting, is the process of constructing an agent which can extract, parse, download and organize useful information from the web automatically. In other words, we can say that instead of manually saving the data from websites, the web scraping software will automatically load and extract data from multiple websites as per our requirement.
 
-Working of a web scraper:
+Working of a web scraper: 
+
 Step 1: Downloading Contents from Web Pages
 In this step, a web scraper will download the requested contents from multiple web pages.
 
