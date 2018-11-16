@@ -33,6 +33,8 @@ Step 4: Analyzing the Data
 
 After all these steps are successfully done, the web scraper will analyze the data thus obtained.
 
+********************************************************************************************************
+
  Below are the contents of the files in this repository.
 1. News Article Summary
 - Parses news article and summarizes the content and saves it in a CSV file.
