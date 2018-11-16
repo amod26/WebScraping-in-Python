@@ -44,3 +44,6 @@ After all these steps are successfully done, the web scraper will analyze the da
 
 3. Weather Forecast.
 - Webscraped a weather forecast webpage using beautifulsoup library, extracted the required data and stored it in pandas dataframe. Stored the final output in excel file.
+
+4. H1B sponsoring companies in 2016
+- Webscraped the data from a website database of H1B sponsoring companies. Cleaned the data, visualized using various libraries, performed various analysis.
