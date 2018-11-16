@@ -1,7 +1,21 @@
 # WebScraping-in-Python
 Web scraping is an automatic process of extracting information from web. Web scraping is also called as web data mining or web harvesting, is the process of constructing an agent which can extract, parse, download and organize useful information from the web automatically. 
 
-Working of a web scraper: 
+PS: Before we scrape a website, we need to take a look at their robots.txt. This file tells us if the website allows scraping or if they do not. To find the robots.txt, type in the base url and add “/robots.txt”. For eg, if we want to crawl www.h1bdata.info type in https://h1bdata.info/robots.txt.com at the url box.
+
+If the robots.txt allows full access it says as follows:
+
+User-agent: *
+
+Disallow:
+
+If the robots.txt blocks all access, it contains the following:
+
+User-agent: *
+
+Disallow: /
+
+********************************************************************************************************
 
 Step 1: Downloading Contents from Web Pages 
 
