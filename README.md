@@ -43,14 +43,17 @@ After all these steps are successfully done, the web scraper will analyze the da
 ********************************************************************************************************
 
  Below are the contents of the files in this repository.
-1. News Article Summary
+1. Web Scraping Basics
+- Getting started with Web Scraping.
+
+2. News Article Summary
 - Parses news article and summarizes the content and saves it in a CSV file.
 
-2. Generating Word Cloud using beautifulsoup library.
+3. Generating Word Cloud using beautifulsoup library.
 - Webscraped a webpage leveraging the beautifulsoup library in python. Scraped all the power words required in a resume and visualized it using the Wordcloud library in png file format.
 
-3. Weather Forecast.
+4. Weather Forecast.
 - Webscraped a weather forecast webpage using beautifulsoup library, extracted the required data and stored it in pandas dataframe. Stored the final output in excel file.
 
-4. H1B sponsoring companies in 2016
+5. H1B sponsoring companies in 2016
 - Webscraped the data from a website database of H1B sponsoring companies. Cleaned the data, visualized using various libraries, performed various analysis.
