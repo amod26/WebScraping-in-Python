@@ -2,7 +2,7 @@
 Web scraping is an automatic process of extracting information from web. Web scraping is also called as web data mining or web harvesting, is the process of constructing an agent which can extract, parse, download and organize useful information from the web automatically. 
 
 PS: Before we scrape a website, we need to take a look at their robots.txt. This file tells us if the website allows scraping or if they do not. To find the robots.txt, type in the base url and add “/robots.txt”. For eg, if we want to crawl www.h1bdata.info type in https://h1bdata.info/robots.txt at the url box.
-
+```
 If the robots.txt allows full access it says as follows:
 
 User-agent: *
@@ -14,16 +14,20 @@ If the robots.txt blocks all access, it contains the following:
 User-agent: *
 
 Disallow: /
-
-**webbrowser** Comes with Python and opens a browser to a specific page. <br>
-**Requests** Downloads files and web pages from the Internet. <br>
-**Beautiful Soup** Parses HTML, the format that web pages are written in.<br>
-**Selenium** Launches and controls a web browser. Selenium is able to fill in forms and simulate mouse clicks in this browser.
+```
+**webbrowser** <br>
+Comes with Python and opens a browser to a specific page. <br>
+**Requests** <br>
+Downloads files and web pages from the Internet. <br>
+**Beautiful Soup** <br>
+Parses HTML, the format that web pages are written in.<br>
+**Selenium** <br>
+Launches and controls a web browser. Selenium is able to fill in forms and simulate mouse clicks in this browser.
 
 
 
 ********************************************************************************************************
-
+### Steps of WebScraping
 Step 1: Downloading Contents from Web Pages 
 
 In this step, a web scraper will download the requested contents from multiple web pages.
@@ -42,7 +46,7 @@ After all these steps are successfully done, the web scraper will analyze the da
 
 ********************************************************************************************************
 
- Below are the contents of the files in this repository.
+ ### Below are the contents of the files in this repository.
 1. Web Scraping Basics
 - Getting started with Web Scraping.
 
